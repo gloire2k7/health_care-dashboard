@@ -1,0 +1,139 @@
+@import "bootstrap/scss/bootstrap";
+
+.custom-button {
+  background-color: #01F0D0; 
+  color: #072635;            
+  border-radius: 50px;      
+  border: none;             
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 2px;
+  padding-right: 10px;
+  text-align: center;
+  cursor: pointer;          
+}
+.navbar{
+  border-radius: 100px;
+  background-color: #F6F7F8;
+  margin: 7px;
+  margin-top: 10px;
+}
+
+.text1{
+  font-size: 14px;
+  color: #072635;
+}
+
+.text2{
+  font-weight: bold;
+  font-size: 14px;
+  color: #072635;
+}
+
+.text3{
+  font-weight: bolder;
+  font-size: 24px;
+  color: #072635;
+}
+.text9{
+  font-weight: bol;
+  font-size: 22px;
+  color: #072635; 
+}
+.text8{
+  font-weight: bolder;
+  font-size: 14px;
+  color: #072635;
+}
+
+.text13{
+  font-size: 14px;
+  color: #707070;
+}
+.text5{
+  font-weight: bolder;
+  font-size: 30px;
+  color: #707070;
+}
+.text4{
+  font-size: 16px;
+  color: #072635;
+}
+.users{
+  width: 48x;
+  height: 48px;
+}
+
+.jess{
+  background-color: #D8FCF7;
+}
+
+.box1{
+  background-color: #E0F3FA;
+  border-radius: 10px;
+  padding: 7px;
+}
+
+.box2{
+  background-color: #FFE6E9;
+  border-radius: 10px;
+  padding: 7px;
+}
+
+.box3{
+  background-color: #FFE6F1;
+  border-radius: 10px;
+  padding: 7px;
+}
+.patients{
+  margin-top: 38%;
+  background-color: #F6F7F8; 
+  margin-left: 5px;
+  border-radius: 20px;
+  width: 285px;
+}
+
+.dhistory{
+  width: 620px;
+  background-color: #F6F7F8; 
+  border-radius: 20px;
+  margin-top: 17%;
+  margin-bottom: 10px;
+}
+.list{
+  width: 620px;
+  background-color: #F6F7F8; 
+  border-radius: 20px;
+}
+.jessica{
+  width: 310px;
+  background-color: #F6F7F8;
+  margin-top: 32%;
+  border-radius: 20px;
+}
+.report{
+  width: 310px;
+  background-color: #F6F7F8;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+.profile img{
+  width: 150px;
+  height: 150px;
+}
+
+.chart{
+  background-color: #F4F0FE;
+  height: 352px;
+  border-radius: 10%;
+}
+.grey{
+  background-color: #FFFFFF;
+  border-radius: 24px;
+  height: 35px;
+  vertical-align: middle;
+}
+.grey2{
+  background-color: #FFFFFF;
+}
